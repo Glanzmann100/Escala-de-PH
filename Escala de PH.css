@@ -1,0 +1,65 @@
+body{
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    background-color: silver;
+    padding: 20px;
+    color: red;
+    padding: inherit;
+    text-align: center;
+    font-size: 60;
+    border-radius: 40px;
+    border-style: groove;
+    border-color: black;
+}
+p{
+    padding: 5px;
+    margin: 0px;
+    border: 1px solid;
+}
+p.Catorze{
+    background-color:rgb(0,136,221);
+}
+p.Treze{
+    background-color:rgb(0,149,226);
+}
+p.Doze{
+    background-color:rgb(0,160,230);
+}
+p.Onze{
+    background-color:rgb(48,170,233);
+}
+p.Dez{
+    background-color:rgb(84,182,237);
+}
+p.Nove{
+    background-color:rgb(114,193,240);
+}
+p.Oito{
+    background-color:rgb(140,202,242);
+}
+p.Sete{
+    background-color:rgb(0,187,136);
+}
+.Seis{
+    background-color:rgb(245,176,204);
+}
+p.Cinco{
+    background-color:rgb(246,159,192);
+}
+p.Quatro{
+    background-color:rgb(245,140,178);
+}
+p.Três{
+    background-color:rgb(244,123,166);
+}
+p.Dois{
+    background-color:rgb(243,106,152);
+}
+p.Um{
+    background-color:rgb(224,90,139);
+}
+p.Zero{
+    background-color:rgb(238,62,128);
+}
