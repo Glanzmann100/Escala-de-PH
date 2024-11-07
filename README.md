@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
+    <style></style>
     <body>
      <h1>Escala de PH</h1>
         <p class="Catorze">14.0 - Muito Alcalino</p>
